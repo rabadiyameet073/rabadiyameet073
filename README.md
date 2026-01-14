@@ -46,7 +46,7 @@ https://personal-portfolio-website-rmdu.vercel.app/assets/resume.pdf
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,php" />
+  <img src="https://skillicons.dev/icons?i=python,php,c" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
@@ -60,11 +60,10 @@ https://personal-portfolio-website-rmdu.vercel.app/assets/resume.pdf
 ## 🧩 Technical Skills  
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, Django, Flask  
+- **Backend:** Python, php ,c  
 - **Databases:** MySQL, PostgreSQL  
 - **Software Concepts:**  
-  - REST APIs  
-  - MVC Architecture  
+  - responsive ui
   - Database Design & ER Diagrams  
 - **Tools:** Git, GitHub, Linux, Jupyter Notebook  
 
