@@ -25,7 +25,7 @@ and writing **clean, maintainable code**.
   <a href="mailto:rabadiyameet09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://personal-portfolio-website-rmdu.vercel.app/" target="_blank">
+  <a href="https://meet-rabadiya-rmdu.vercel.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
