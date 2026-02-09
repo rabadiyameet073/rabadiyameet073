@@ -35,7 +35,7 @@ and writing **clean, maintainable code**.
 ## 📄 Resume  
 
 📌 **Resume:**  
-https://personal-portfolio-website-rmdu.vercel.app/assets/resume.pdf  
+https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf 
 
 ---
 
