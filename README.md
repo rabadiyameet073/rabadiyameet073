@@ -48,16 +48,23 @@ https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf
 # Tech Stack
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,php,fastapi,mysql,postgresql" />
 
 </p>
+
+**Additional Tech:** XML • REST APIs
 
 ---
 
 # Data / AI / Python Libraries
 
 NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn
+
+---
+
+# Computer Science Fundamentals
+
+Data Structures & Algorithms (DSA) • Analysis and Design of Algorithms (ADA) • Operating Systems (OS) • DCCN • OOPS (Java) • DBMS • Machine Learning (ML)
 
 ---
 
@@ -69,7 +76,7 @@ NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn
 
 </p>
 
-Jupyter Notebook • Google Colab • Antigravity • Cisco Packet Tracer • WEKA • AutoCAD • Matlab • Cursor • Jira
+Jupyter Notebook • Google Colab • Antigravity • Cisco Packet Tracer • WEKA • AutoCAD • Matlab • Cursor • Jira • Kiro • Odoo • Excel
 
 ---
 
