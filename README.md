@@ -48,15 +48,20 @@ https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf
 # Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,php,fastapi,mysql,postgresql" />
-
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,php,fastapi,mysql,postgresql,xml" />
 </p>
-
-**Additional Tech:** XML • REST APIs
 
 ---
 
 # Data / AI / Python Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+</p>
 
 NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn
 
@@ -74,9 +79,22 @@ Data Structures & Algorithms (DSA) • Analysis and Design of Algorithms (ADA) �
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,supabase" />
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48"/>
 
-Jupyter Notebook • Google Colab • Antigravity • Cisco Packet Tracer • WEKA • AutoCAD • Matlab • Cursor • Jira • Kiro • Odoo • Excel
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="48"/>
+
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="48" title="Excel"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="48" title="Jira"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="48" title="WEKA"/>
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" title="Cisco Packet Tracer"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" width="48" title="Cursor"/>
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="48" title="Antigravity"/>
+
+</p>
 
 ---
 
