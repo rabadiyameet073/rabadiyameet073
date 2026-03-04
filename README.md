@@ -2,32 +2,38 @@
 
 Full-Stack Developer | Software Engineer | AI/ML Enthusiast  
 
-I focus on building clean, scalable systems with strong fundamentals in backend development, databases, and structured software design.
+I build clean, scalable systems with a fundamentals-first and logic-driven approach to software development. My interests include backend engineering, system design, and applying Artificial Intelligence and Machine Learning to real-world software systems.
 
 ---
 
 ## About Me
 
-I am a Full-Stack and Software Developer with a strong foundation in Python, databases, and backend architecture.
+I am a Full-Stack and Software Developer with strong foundations in programming, databases, and backend architecture.
 
-My approach to development is fundamentals-first and logic-driven. I enjoy designing structured systems, building end-to-end web applications, and writing clean, maintainable code that solves real problems.
-
-I am particularly interested in backend engineering, system design, and the integration of Artificial Intelligence and Machine Learning into practical software systems.
+My approach focuses on understanding core concepts deeply and applying them to build structured, maintainable, and efficient software systems. I enjoy designing end-to-end applications, solving real problems through logic-driven development, and continuously improving my engineering skills.
 
 ---
 
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/meet-rabadiya-073-rmdu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rabadiyameet09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://meet-rabadiya-rmdu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/meet-rabadiya-073-rmdu/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:rabadiyameet09@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://meet-rabadiya-rmdu.vercel.app/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
@@ -39,46 +45,40 @@ https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf
 
 ---
 
-## Languages and Tools
+# Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,fastapi,php,mysql,postgresql,git,github,vscode,linux" />
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,php,fastapi,mysql,postgresql" />
+
 </p>
 
 ---
 
-## Technical Skills
+# Data / AI / Python Libraries
 
-Frontend  
-HTML, CSS, JavaScript, React, Tailwind CSS
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn
 
-Backend  
-Python, Node.js, Express, FastAPI, PHP
+---
 
-Databases  
-MySQL, PostgreSQL
+# Tools & Platforms
 
-Programming  
-Python, Java, C
+<p align="left">
 
-Computer Science Fundamentals  
-Data Structures and Algorithms  
-Object-Oriented Programming  
-Database Management Systems  
-Operating Systems  
-Computer Networks
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,supabase" />
 
-Tools  
-Git, GitHub, Linux, VS Code, Jupyter Notebook, Google Colab
+</p>
+
+Jupyter Notebook • Google Colab • Antigravity • Cisco Packet Tracer • WEKA • AutoCAD • Matlab • Cursor • Jira
 
 ---
 
 ## Current Focus
 
-Developing production-ready full-stack applications  
-Deepening expertise in backend engineering and database systems  
-Strengthening Data Structures and Algorithms for system design thinking  
-Exploring Artificial Intelligence and Machine Learning for real-world applications
+- Building production-ready full-stack applications  
+- Strengthening backend engineering and database systems  
+- Improving data structures and algorithms  
+- Exploring AI and machine learning for real-world applications  
 
 ---
 
