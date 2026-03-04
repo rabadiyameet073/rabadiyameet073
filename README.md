@@ -1,81 +1,89 @@
-## 👋 Hi, I'm Meet Rabadiya  
+# Meet Rabadiya
 
-💻 Full-Stack & Software Engineer  
-🐍 Strong in Python, SQL, and Backend Development  
-🚀 Focused on building clean, scalable web applications  
+Full-Stack Developer | Software Engineer | AI/ML Enthusiast  
 
----
-
-## 🧠 About Me  
-
-I am a **Full-Stack and Software Engineer** with a strong foundation in  
-**Python programming, databases, and backend development**.
-
-I enjoy building **end-to-end web applications**, designing structured backends,  
-and writing **clean, maintainable code**.
+I focus on building clean, scalable systems with strong fundamentals in backend development, databases, and structured software design.
 
 ---
 
-## 🌐 Connect with Me  
+## About Me
+
+I am a Full-Stack and Software Developer with a strong foundation in Python, databases, and backend architecture.
+
+My approach to development is fundamentals-first and logic-driven. I enjoy designing structured systems, building end-to-end web applications, and writing clean, maintainable code that solves real problems.
+
+I am particularly interested in backend engineering, system design, and the integration of Artificial Intelligence and Machine Learning into practical software systems.
+
+---
+
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meet-rabadiya-073-rmdu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rabadiyameet09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://meet-rabadiya-rmdu.vercel.app//" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://meet-rabadiya-rmdu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📄 Resume  
+## Resume
 
-📌 **Resume:**  
-https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf 
+Resume  
+https://meet-rabadiya-rmdu.vercel.app/assets/resume.pdf
 
 ---
 
-## 🛠️ Languages and Tools  
+## Languages and Tools
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,php,c" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-  <!-- Tools & OS -->
-  <img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,tailwind,nodejs,express,fastapi,php,mysql,postgresql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🧩 Technical Skills  
+## Technical Skills
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, php ,c  
-- **Databases:** MySQL, PostgreSQL  
-- **Software Concepts:**  
-  - responsive ui
-  - Database Design & ER Diagrams  
-- **Tools:** Git, GitHub, Linux, Jupyter Notebook  
+Frontend  
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+Backend  
+Python, Node.js, Express, FastAPI, PHP
+
+Databases  
+MySQL, PostgreSQL
+
+Programming  
+Python, Java, C
+
+Computer Science Fundamentals  
+Data Structures and Algorithms  
+Object-Oriented Programming  
+Database Management Systems  
+Operating Systems  
+Computer Networks
+
+Tools  
+Git, GitHub, Linux, VS Code, Jupyter Notebook, Google Colab
 
 ---
 
-## 📌 Current Focus  
+## Current Focus
 
-- Building **strong backend & full-stack projects**
-- Improving **Python & SQL depth**
-- Strengthening **DSA and problem-solving**
-- Preparing for **high-placement software roles**
+Developing production-ready full-stack applications  
+Deepening expertise in backend engineering and database systems  
+Strengthening Data Structures and Algorithms for system design thinking  
+Exploring Artificial Intelligence and Machine Learning for real-world applications
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+## Philosophy
+
+Strong systems are built on strong fundamentals.
+
+I believe in learning deeply, writing meaningful code, and building software that solves real problems.
