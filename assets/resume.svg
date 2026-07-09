@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 45" width="180" height="45">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700');
+
+      /* Float the entire card group */
+      .card-group {
+        animation: floatCard 4s ease-in-out infinite;
+        animation-delay: -0.5s;
+      }
+
+      /* 3D button top plate */
+      .button-plate {
+        animation: pressEffect 4s ease-in-out infinite;
+        animation-delay: -0.5s;
+      }
+
+      .bg-3d {
+        fill: #78350F;
+      }
+
+      .bg-top {
+        fill: #15110A;
+        stroke: rgba(245, 158, 11, 0.4);
+        stroke-width: 1.5;
+      }
+
+      .btn-text {
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 0.12em;
+      }
+
+      .icon {
+        stroke: #F59E0B;
+        stroke-width: 1.5;
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      /* Light sweep effect */
+      .shine {
+        animation: shineSweep 4s ease-in-out infinite;
+        animation-delay: -0.5s;
+      }
+
+      @keyframes floatCard {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-2px); }
+      }
+
+      @keyframes pressEffect {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-1.5px); }
+      }
+
+      @keyframes shineSweep {
+        0% { transform: translateX(-120px); }
+        35% { transform: translateX(200px); }
+        100% { transform: translateX(200px); }
+      }
+    </style>
+
+    <linearGradient id="shine-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.2" />
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <clipPath id="btn-clip">
+      <rect x="2" y="2" width="176" height="36" rx="8" />
+    </clipPath>
+  </defs>
+
+  <g class="card-group">
+    <!-- 3D Extrusion Base (Slab Side) -->
+    <rect class="bg-3d" x="2" y="5.5" width="176" height="36" rx="8" />
+
+    <!-- Top Floating Face Group -->
+    <g class="button-plate">
+      <!-- Main Face -->
+      <rect class="bg-top" x="2" y="2" width="176" height="36" rx="8" />
+
+      <!-- Shine sweep overlay -->
+      <g clip-path="url(#btn-clip)">
+        <rect class="shine" x="-100" y="0" width="80" height="45" fill="url(#shine-grad)" />
+      </g>
+
+      <!-- Document Icon (3D-aligned) -->
+      <g class="icon" transform="translate(48, 14)">
+        <rect x="0" y="0" width="10" height="12.5" rx="1" />
+        <line x1="2.5" y1="3" x2="7.5" y2="3" />
+        <line x1="2.5" y1="6" x2="7.5" y2="6" />
+        <line x1="2.5" y1="9" x2="5.5" y2="9" />
+      </g>
+
+      <!-- Button Text -->
+      <text x="68" y="24" class="btn-text">RESUME</text>
+    </g>
+  </g>
+</svg>
