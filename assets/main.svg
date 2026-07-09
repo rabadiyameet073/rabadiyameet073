@@ -665,12 +665,11 @@
       <line x1="0" y1="10" x2="100" y2="10" class="header-line"/>
 
       <!-- Quote box with side accent bar -->
-      <rect class="phil-bar" x="0" y="28" width="3" height="152" rx="1.5"/>
+      <rect class="phil-bar" x="0" y="28" width="3" height="124" rx="1.5"/>
       <text class="phil-quote" x="18" y="46">"In this new AI world, nothing is impossible to build in the software industry."</text>
       <text class="phil-quote" x="18" y="76">"It's all about mindset: how you think and what you build is all that matters."</text>
       <text class="phil-sub" x="18" y="108">Strong systems are built on strong fundamentals.</text>
-      <text class="phil-sub" x="18" y="136">I believe in learning deeply, writing meaningful code, and building software</text>
-      <text class="phil-sub" x="18" y="164">that solves real-world problems.</text>
+      <text class="phil-sub" x="18" y="136">I believe in learning deeply, writing meaningful code, and building software that solves real-world problems.</text>
     </g>
   </g>
 </svg>
